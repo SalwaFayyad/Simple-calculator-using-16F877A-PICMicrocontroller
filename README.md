@@ -10,6 +10,8 @@ The program initiates by presenting a welcoming message on the LCD screen, which
 
 - The LED added to the co-processor serves as a visual indicator of communication status between the two microcontrollers. When the system starts up, the LED indicates readiness. During multiplication operations, the LED blinks or changes its state to confirm successful data exchange. Any irregularities in LED behavior signal potential communication errors, prompting corrective actions. This simple addition enhances system reliability by providing real-time feedback on communication, ensuring smoother operation.
 - In the dedicated branch for this project within the repository, you will find the master assembly files and the co-processor assembly files.
-![image](https://github.com/SalwaFayyad/Simple-calculator-using-16F877A-PICMicro/assets/104863637/f66330e0-ad77-48ef-b545-d7594e377b89)
+![image](https://github.com/SalwaFayyad/Simple-calculator-using-16F877A-PICMicrocontroller/assets/104863637/77ed2307-bfe2-491e-811e-d4f25ca644d9)
 
-![image](https://github.com/SalwaFayyad/Simple-calculator-using-16F877A-PICMicro/assets/104863637/e314b515-85d3-4f61-8d4b-2c3a4cfc0407)
+
+![image](https://github.com/SalwaFayyad/Simple-calculator-using-16F877A-PICMicrocontroller/assets/104863637/e61ed73f-25b7-414c-85da-5acb1b2d25e7)
+
