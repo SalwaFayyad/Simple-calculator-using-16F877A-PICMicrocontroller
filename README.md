@@ -1,6 +1,6 @@
 # Simple-calculator-using-16F877A-PICMicro
 This project, designated as the 3rd project within the Real-Time Applications & Embedded Systems course (ENCS4330), focuses on the development of a simple calculator system implemented on embedded systems. Specifically designed to demonstrate practical applications of real-time computing concepts and embedded system design principles.
-### In the dedicated branch for this project within the repository, you will find the master assembly files and the co-processor assembly files.
+### *In the dedicated branch for this project within the repository, you will find the master assembly files and the co-processor assembly files.*
 
 ## Description
 The project aims to create a basic calculator capable of performing multiplication operations on integer numbers. The calculator is hardware-based and uses two 16F877A microcontrollers - one as the master CPU and the other is co-processor. Additionally, it includes a push button (P) for number input and a 16×2 character LCD for display, both connected to the master CPU.
